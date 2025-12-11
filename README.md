@@ -15,7 +15,7 @@ I’m driven by curiosity, problem-solving, and continuous learning to stay up-t
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-leon-8774232ab" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:danielarevalodev2005@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="danielarevalodev2005@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
