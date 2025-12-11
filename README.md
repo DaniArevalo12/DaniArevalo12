@@ -102,11 +102,6 @@ Siempre busco aprender nuevas tecnologías, participar en proyectos desafiantes 
 If you’re looking for a creative and motivated developer to collaborate on your next project — I’d love to connect!  
 Si buscas un desarrollador creativo y comprometido para colaborar en tu próximo proyecto — ¡hablemos!
 
-<p align="center">
-  <a href="mailto:danielarevalodev2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📩%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
