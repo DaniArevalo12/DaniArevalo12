@@ -35,7 +35,7 @@ Siempre busco aprender nuevas tecnologías, participar en proyectos desafiantes 
   <a href="https://www.linkedin.com/in/daniel-leon-8774232ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:danielarevalodev2005@gmail.com" target="_blank">
+  <a href="danielarevalodev2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/DaniArevalo12" target="_blank">
@@ -43,7 +43,7 @@ Siempre busco aprender nuevas tecnologías, participar en proyectos desafiantes 
   </a>
 </p>
 
-> ✅ El botón de Gmail ya usa `mailto:` y abrirá directamente tu cliente de correo predeterminado (incluido Gmail en el navegador).
+🚀 *En dado caso que el boton de gmail no funcione, te dejare mi correo de contacto aca "danielarevalodev2005@gmail.com" .* 🚀
 
 ---
 
